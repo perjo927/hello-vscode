@@ -1,4 +1,4 @@
-# hello-vscode README
+# Hello-vscode README
 
 Testing VS Code extensions. This extension registers a command and defines its title and command name. With this information
 VS Code can show the command in the command palette.
